@@ -1,0 +1,17 @@
+api:
+  type: "openrouter"  # API provider type: openrouter, deepseek, openai
+  api_key: ""  # Your OpenRouter API key
+  base_url: "https://openrouter.ai/api/v1"  # OpenRouter API endpoint (optional, usually auto-set)
+
+model:
+  name: "x-ai/grok-4.1-fast"  # OpenRouter model name, format: provider/model-name
+  # Other common model examples:
+  # - "openai/gpt-4-turbo"
+  # - "anthropic/claude-3-opus"
+  # - "google/gemini-pro"
+  temperature: 0.6
+  max_tokens: 32000
+
+agent:
+  log_level: "INFO"
+

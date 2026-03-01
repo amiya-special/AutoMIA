@@ -1,0 +1,17 @@
+api:
+  type: "deepseek"
+  # API key for the selected provider (leave empty to read from environment variables).
+  api_key: ""
+  # Base URL for the DeepSeek API.
+  base_url: "https://api.deepseek.com"
+
+model:
+  # Model name on the selected API platform.
+  name: "deepseek-reasoner"
+  # Sampling temperature: higher = more random, lower = more deterministic.
+  temperature: 0.6
+  max_tokens: 32000
+
+agent:
+  # Logging verbosity for the agent: "DEBUG", "INFO", "WARNING", or "ERROR".
+  log_level: "INFO"

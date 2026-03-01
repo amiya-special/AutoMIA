@@ -1,0 +1,48 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "automia"
+version = "0.1.0"
+description = "AutoMia: Agent-driven MIA for VL-MIA (run_with_text_agent / run_with_img_agent)."
+readme = "llava/README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+]
+dependencies = [
+    "torch>=2.0",
+    "torchvision",
+    "transformers",
+    "tokenizers",
+    "sentencepiece",
+    "accelerate",
+    "peft",
+    "numpy",
+    "scikit-learn",
+    "requests",
+    "datasets",
+    "Pillow",
+    "opencv-python",
+    "tqdm",
+    "scipy",
+    "openai",
+    "PyYAML",
+]
+
+[project.optional-dependencies]
+# 与 VL-MIA-main 一致的严格版本（可选）
+strict = [
+    "torch==2.1.2",
+    "torchvision==0.16.2",
+    "transformers==4.37.2",
+    "tokenizers==0.15.1",
+    "sentencepiece==0.1.99",
+    "accelerate==0.21.0",
+    "scikit-learn==1.2.2",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["agent_mia*"]
