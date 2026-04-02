@@ -1,6 +1,27 @@
-# AutoMIA
+<div align="center">
+<h1><a href="https://arxiv.org/abs/2604.01014" target="_blank">AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration</a></h1>
 
-Codebase for **AutoMIA**, an agentic framework for **Vision-Language Membership Inference Attacks (VL-MIA)**.
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Paper](https://img.shields.io/badge/arXiv-2604.01014-b31b1b.svg)](https://arxiv.org/abs/2604.01014)
+
+
+</div>
+
+<div align="center">
+  Ruhao Liu<sup>&ddagger;</sup>&emsp;Weiqi Huang<sup>&ddagger;</sup>&emsp;Qi Li<sup>&ddagger;</sup>&emsp;Xinchao Wang<sup>1&dagger;</sup>
+</div>
+
+<div align="center">
+    <a href="https://sites.google.com/view/xml-nus/people?authuser=0" target="_blank">xML-Lab</a>, National University of Singapore&emsp;
+</div>
+
+
+<div align="center">
+  <sup>&ddagger;</sup>Equal contribution;&emsp;
+  <sup>&dagger;</sup>Corresponding author
+</div>
+
 
 ## Introduction
 
