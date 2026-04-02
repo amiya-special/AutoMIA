@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  Ruhao Liu<sup>&ddagger;</sup>&emsp;Weiqi Huang<sup>&ddagger;</sup>&emsp;Qi Li<sup>&ddagger;</sup>&emsp;Xinchao Wang<sup>1&dagger;</sup>
+  Ruhao Liu<sup>&ddagger;</sup>&emsp;Weiqi Huang<sup>&ddagger;</sup>&emsp;Qi Li<sup>&ddagger;</sup>&emsp;Xinchao Wang<sup>&dagger;</sup>
 </div>
 
 <div align="center">
