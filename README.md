@@ -50,13 +50,10 @@ Extensive experiments show that AutoMIA consistently matches or outperforms stro
 If you find our work or this codebase helpful, please consider citing our paper:
 
 ```bibtex
-@misc{liu2026automiaimprovedbaselinesmembership,
-      title={AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration}, 
-      author={Ruhao Liu and Weiqi Huang and Qi Li and Xinchao Wang},
-      year={2026},
-      eprint={2604.01014},
-      archivePrefix={arXiv},
-      primaryClass={cs.CR},
-      url={https://arxiv.org/abs/2604.01014}, 
+@article{liu2026automia,
+  title={AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration},
+  author={Ruhao Liu and Weiqi Huang and Qi Li and Xinchao Wang},
+  journal={arXiv preprint arXiv:2604.01014},
+  year={2026}
 }
 ```
