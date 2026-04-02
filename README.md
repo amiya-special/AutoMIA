@@ -45,6 +45,18 @@ Extensive experiments show that AutoMIA consistently matches or outperforms stro
   - `run_with_text_agent.py`
   - `run_with_img_agent.py`
 
-## License
+## Citation
 
-Please choose and add an appropriate `LICENSE` file for your release.
+If you find our work or this codebase helpful, please consider citing our paper:
+
+```bibtex
+@misc{liu2026automiaimprovedbaselinesmembership,
+      title={AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration}, 
+      author={Ruhao Liu and Weiqi Huang and Qi Li and Xinchao Wang},
+      year={2026},
+      eprint={2604.01014},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2604.01014}, 
+}
+```
