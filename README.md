@@ -33,7 +33,7 @@ Extensive experiments show that AutoMIA consistently matches or outperforms stro
 
 ## Quick Start
 
-- For detailed instructions, please refer to: [llava/README.md](llava/README.md)
+- The detailed implementation is given in: [llava/README.md](llava/README.md)
 - Datasets:
   - VL-MIA [image](https://huggingface.co/datasets/JaineLi/VL-MIA-image)
   - VL-MIA [text](https://huggingface.co/datasets/JaineLi/VL-MIA-text)
