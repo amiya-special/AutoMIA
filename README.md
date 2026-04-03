@@ -18,7 +18,7 @@
 
 
 <div align="center">
-  <sup>&ddagger;</sup>Equal contribution;&emsp;
+  <sup>&ddagger;</sup>Equal contribution;&emsp
   <sup>&dagger;</sup>Corresponding author
 </div>
 
